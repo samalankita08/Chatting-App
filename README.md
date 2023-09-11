@@ -1,2 +1,2 @@
 # Chatting-App
-Java Project
+This is a real time chatting Application project...
